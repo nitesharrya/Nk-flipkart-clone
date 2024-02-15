@@ -1,3 +1,3 @@
 FLIPCART_CLONE
 
-https://github.com/nitesharrya/Nk-flipkart-clone
+https://nitesharrya.github.io/Nk-flipkart-clone/
